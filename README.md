@@ -1,6 +1,8 @@
 # CC-CNC
 Credit Card sized CNC Controller board
 
+![PCB Picture](https://github.com/twatorowski/CC-CNC/blob/master/Hardware/IMG_1246.JPG)
+
 Simple and Small CNC Controller. Features are:
 
 ### Hardware
